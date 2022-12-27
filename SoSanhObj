@@ -1,0 +1,4 @@
+let obj1 = {name: 'akash'};
+let obj2  = {name: 'akash'};
+    console.log(isEqual({obj1}, {obj2}));
+//Em chưa hiểu isEqual này lắm, anh comment lại giúp em vs ạ
